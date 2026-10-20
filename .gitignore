@@ -1,0 +1,22 @@
+# Generated build trees and downloaded build caches
+/out/
+/build/
+/cmake-build-*/
+
+# Visual Studio workspace files
+/.vs/
+CMakeUserPresets.json
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Compiled native artifacts
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.a
